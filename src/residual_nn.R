@@ -28,7 +28,6 @@ residual_model <- function(lay, n_filters){
 
 the_model <- function(){
   n_residual = 2
-  residual_i = 1
   for(i in 1:n_residual){
     residual_i
   }

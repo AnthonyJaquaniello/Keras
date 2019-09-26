@@ -92,6 +92,7 @@ model.fit(X_train, onehot_Y, batch_size=20, epochs=20)
 # Perf of the model.
 model.evaluate(X_train, onehot_Y)
 
+
 # Validation data.
 file_data_val = "../data/reduced_val.npz"
 
