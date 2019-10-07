@@ -557,7 +557,12 @@
   {
    "cell_type": "code",
    "execution_count": 173,
-   "metadata": {},
+   "metadata": {
+    "collapsed": true,
+    "jupyter": {
+     "outputs_hidden": true
+    }
+   },
    "outputs": [
     {
      "name": "stdout",
@@ -726,13 +731,6 @@
     "print(\"tot =\", tot)\n",
     "print(\"ACC:%5.3f\"%(tp/tot*100))"
    ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
   }
  ],
  "metadata": {
